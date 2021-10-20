@@ -92,10 +92,7 @@ Class Batch
     }
 -->
 <img src="https://github.com/Anuro0p/Anuro0p/blob/master/bgs1.png" alt="" style="width: 100%;">
-<--
-
-
-    function publishBatch($pubid){
+<!-- function publishBatch($pubid){
         include ("connect.php");
 
             $deleteQry="UPDATE tbl_batch set istatus=1 where ID = '$pubid'";
