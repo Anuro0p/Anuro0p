@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/Anuro0p/Anuro0p/blob/master/bgs1.png" alt="" style="width: 100%;">
 
 <!--
 **Anuro0p/Anuro0p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
