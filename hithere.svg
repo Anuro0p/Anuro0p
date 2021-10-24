@@ -18,6 +18,8 @@
                     }
                     .loader{
                         position: relative;
+                        top:0;
+                        bottom:0;
                         -webkit-box-reflect: below 2px linear-gradient(transparent,#0002);
                     }
 
